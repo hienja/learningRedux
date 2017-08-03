@@ -1,7 +1,7 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import ShowCard from './ShowCard';
-import Header from '.Header';
+import Header from './Header';
 
 const Search = (props: {
 	// eslint-disable-line react/no-used-prop-type
